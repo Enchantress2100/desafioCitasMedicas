@@ -1,0 +1,22 @@
+{
+  "name": "desafiocitasmedicas",
+  "version": "1.0.0",
+  "description": "desafio citas medicas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Consuelo Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chalk": "4.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
